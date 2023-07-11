@@ -1,4 +1,4 @@
-nclude "lists.b"
+#include "lists.b"
 
 /**
  * check_cycle - checks if a linked list contains a cycle or not
